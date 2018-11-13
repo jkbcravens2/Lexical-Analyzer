@@ -1,2 +1,3 @@
 # Lexical-Analyzer
-This is the repository for my CSCI 4200: Programming Languages lexical analyzer project
+Program Objective: Design a lexical analyzer in Java to parse basic expressions and assignment statements. 
+This is the first part of the SubLC3 Compiler Project
